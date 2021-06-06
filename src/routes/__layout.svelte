@@ -3,7 +3,9 @@
 </script>
 
 <Navbar />
-<slot />
+<div class="flex flex-col items-center px-16">
+	<slot />
+</div>
 
 <style>
 	@tailwind base;

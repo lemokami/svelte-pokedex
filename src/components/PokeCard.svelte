@@ -3,9 +3,9 @@
 </script>
 
 <a
-	href={`/pokeman/${pokeman.id}`}
-	class="rounded-md bg-blue-200 flex flex-col items-center justify-center cursor-pointer transition hover:shadow-lg"
+	href={`/pokemon/${pokeman.id}`}
+	class="rounded-md bg-green-50 flex flex-col items-center justify-center cursor-pointer transition hover:shadow-lg py-5"
 >
 	<img src={pokeman.image} alt={pokeman.name} class="h-48" />
-	<p>{pokeman.name}</p>
+	<p class="uppercase tracking-wide font-medium text-green-900">{pokeman.name}</p>
 </a>
