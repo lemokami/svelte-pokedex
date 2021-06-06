@@ -35,3 +35,7 @@ Install svelte-pokedex with yarn
 - [James Q Quick's Video](https://www.youtube.com/watch?v=UU7MgYIbtAk)
 - [Svelte Kit](https://kit.svelte.dev)
 - [Svelte](https://svelte.dev)
+
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0b690983-d4e9-4682-b250-f89a5c62bcd3/deploy-status)](https://app.netlify.com/sites/sveltidex-lemokami/deploys)
